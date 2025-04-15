@@ -1,1 +1,1 @@
-# th-selenium-python-tpl
+# tpl-selenium-python-automation
